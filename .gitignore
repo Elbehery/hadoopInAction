@@ -5,4 +5,5 @@ target/
 .settings/
 bin/
 test-output/
-
+.idea
+*.iml
